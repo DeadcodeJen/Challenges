@@ -1,4 +1,4 @@
-## Challenge 5
+## Challenge 6
 
 #### Description
 The following code belongs to a remote service.
