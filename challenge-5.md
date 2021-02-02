@@ -1,4 +1,4 @@
-## Challenge 6
+## Challenge 5
 
 #### Description
 There is a problem (or more than 1) in the following code, which can lead to unwanted behavior.
